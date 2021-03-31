@@ -1,2 +1,2 @@
-# weather-app
-Simple app to tell weather
+# Weather App
+Simple gui app to tell weather
